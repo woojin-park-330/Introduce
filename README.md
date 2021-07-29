@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **woojin-park-330/woojin-park-330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=%20HelloWorld&)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=%20Hithere&)
 
 
